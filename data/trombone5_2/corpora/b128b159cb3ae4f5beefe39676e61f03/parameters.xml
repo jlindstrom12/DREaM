@@ -1,0 +1,30 @@
+<org.voyanttools.trombone.util.FlexibleParameters>
+  <entries>
+    <entry>
+      <string>nextCorpusCreatorStep</string>
+      <list>
+        <string>index</string>
+      </list>
+    </entry>
+    <entry>
+      <string>storedId</string>
+      <list>
+        <string>b128b159cb3ae4f5beefe39676e61f03</string>
+      </list>
+    </entry>
+    <entry>
+      <string>accessPassword</string>
+      <list/>
+    </entry>
+    <entry>
+      <string>adminPassword</string>
+      <list/>
+    </entry>
+    <entry>
+      <string>noPasswordAccess</string>
+      <list>
+        <string>NORMAL</string>
+      </list>
+    </entry>
+  </entries>
+</org.voyanttools.trombone.util.FlexibleParameters>

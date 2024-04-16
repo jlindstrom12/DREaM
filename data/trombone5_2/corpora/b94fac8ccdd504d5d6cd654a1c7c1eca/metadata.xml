@@ -1,0 +1,34 @@
+<org.voyanttools.trombone.util.FlexibleParameters>
+  <entries>
+    <entry>
+      <string>tokensCount-lexical</string>
+      <list>
+        <string>32066</string>
+      </list>
+    </entry>
+    <entry>
+      <string>typesCount-lexical</string>
+      <list>
+        <string>4890</string>
+      </list>
+    </entry>
+    <entry>
+      <string>createdTime</string>
+      <list>
+        <string>1713245832176</string>
+      </list>
+    </entry>
+    <entry>
+      <string>id</string>
+      <list>
+        <string>b94fac8ccdd504d5d6cd654a1c7c1eca</string>
+      </list>
+    </entry>
+    <entry>
+      <string>documentIds</string>
+      <list>
+        <string>1d2ade1253303b87fb03cd69a576c4c0</string>
+      </list>
+    </entry>
+  </entries>
+</org.voyanttools.trombone.util.FlexibleParameters>
